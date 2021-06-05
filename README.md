@@ -1,6 +1,3 @@
----
-Title: Avengers Assemble
----
 <center>
 
 ![Avengers Assemble](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Avengers%20Assemble&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient)
@@ -36,10 +33,10 @@ At Present I am only the Developer For this Bot.
 <br />I will Check and add you as Contributes
 
 ## ***`TODO:`***
-[x] Have to reach 200+ Commands.
-[x] Have to reach 75+ Servers.
-[x] Should make a beautiful website.
-[ ] Should make a nice dashboard with all features and commands.
+- [x] Have to reach 200+ Commands.
+- [x] Have to reach 75+ Servers.
+- [x] Should make a beautiful website.
+- [ ] Should make a nice dashboard with all features and commands.
 
 
 <b><i><h1>Avengers Assemble Support Server</h1></i></b>
