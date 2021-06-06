@@ -1,0 +1,11 @@
+---
+application:
+  name: "vanityurl"
+  project: "testing"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-vanityurl"
+  routes:
+  - application_name: "vanityurl"
+    paths:
+    - "/*"
